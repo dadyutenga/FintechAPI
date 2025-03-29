@@ -1,0 +1,12 @@
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore  # User Authentication
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer            # SQL Server Database
+dotnet add package Microsoft.EntityFrameworkCore.Tools                # EF Core Tools
+dotnet add package Swashbuckle.AspNetCore                              # Swagger API Docs
+dotnet add package Newtonsoft.Json                                     # JSON Serialization
+dotnet add package Stripe.Net                                          # Payment Gateway
+dotnet add package JWT                                                 # JWT Authentication
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+
+
