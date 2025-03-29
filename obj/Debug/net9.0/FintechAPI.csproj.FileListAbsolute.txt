@@ -175,3 +175,4 @@ D:\Projects\FintechAPI\obj\Debug\net9.0\refint\FintechAPI.dll
 D:\Projects\FintechAPI\obj\Debug\net9.0\FintechAPI.pdb
 D:\Projects\FintechAPI\obj\Debug\net9.0\FintechAPI.genruntimeconfig.cache
 D:\Projects\FintechAPI\obj\Debug\net9.0\ref\FintechAPI.dll
+D:\Projects\FintechAPI\obj\Debug\net9.0\FintechAPI.sourcelink.json
